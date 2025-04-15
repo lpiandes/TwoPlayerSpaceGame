@@ -1,1 +1,1 @@
-# TwoPlayerSpaceGame
+I created this game to teach myself how to build games in pygame that is a split screen two player game where different teams shoot their lasers at each otehr and whoever loses their lives the fastest loses.
